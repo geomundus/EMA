@@ -1,0 +1,420 @@
+﻿city;lon;lat;code;title;Freq
+Aachen;608342;5077664;Aachen;Aachen;5
+Ancona;13518915;436158299;Ancona;Ancona;1
+Carthage;103164;368694317;Carthage;Carthage;1
+Guayaquil;-80049;-21523281;Guayaquil;Guayaquil;1
+Guelph;-802481666;435448048;Guelph;Guelph;2
+Haifa;34989571;327940463;Haifa;Haifa;2
+Kolkata;88088;226761144;Kolkata;Kolkata;1
+Koper;13707645;455406081;Koper;Koper;1
+Montreal;-7358781;4550884;Montreal;Montreal;2
+Parma;1032618;4479935;Parma;Parma;1
+Amsterdam;48951679;523702157;Amsterdam;Amsterdam;11
+Angers;-563166;47478419;Angers;Angers;4
+Ankara;328597419;399333635;Ankara;Ankara;1
+Antwerpen;440346;5121989;Antwerpen;Antwerpen;5
+Arcavacata Di Rende (Cs);162104;39361982;Arcavacata Di Rende (Cs);Arcavacata Di Rende (Cs);2
+Armidale New South Wales;151597353;-305004217;Armidale New South Wales;Armidale New South Wales;1
+Ã…s;10642848;596787294;Ã…s;Ã…s;1
+Suzhou;1206071;31307807;Suzhou;Suzhou;1
+Athens;-83377675;339524096;Athens;Athens;2
+Athina;2371622;3797945;Athina;Athina;1
+AubiÃ¨re;311251;4575157;AubiÃ¨re;AubiÃ¨re;1
+Augsburg;108978;483705;Augsburg;Augsburg;1
+Austin;-9774306;3026715;Austin;Austin;1
+Aveiro;-86538;406405;Aveiro;Aveiro;8
+Baltimore;-766121893;392903848;Baltimore;Baltimore;2
+Bangor;-41239;532274;Bangor;Bangor;3
+Aalborg East;997428;570406042;Aalborg East;Aalborg East;8
+Barcelona;21734035;413850639;Barcelona;Barcelona;38
+Bari;168719083;411171488;Bari;Bari;2
+Barrio Sarriena;20784;415006927;Barrio Sarriena;Barrio Sarriena;1
+Basel;755944;475546492;Basel;Basel;1
+Bedford;-46632;5213459;Bedford;Bedford;2
+Beijing;1164074;399042;Beijing;Beijing;3
+Belfast;-593012;54597285;Belfast;Belfast;1
+Belgrade;204489216;44786568;Belgrade;Belgrade;2
+Bellaterra (Cerdanyola Del VallÃ¨s);20784;415006927;Bellaterra (Cerdanyola Del VallÃ¨s);Bellaterra (Cerdanyola Del VallÃ¨s);13
+Bengaluru;7749085;129542946;Bengaluru;Bengaluru;3
+Bergamo;96773;456983;Bergamo;Bergamo;3
+Bergen;53220544;603912628;Bergen;Bergen;6
+Berkeley;-12227275;3787159;Berkeley;Berkeley;1
+York;-10873;5396;York;York;2
+Berlin;13404954;525200066;Berlin;Berlin;12
+Bernburg;117537327;517833579;Bernburg;Bernburg;1
+BesanÃ§on;60240539;47237829;BesanÃ§on;BesanÃ§on;2
+Bielefeld;85324708;520302285;Bielefeld;Bielefeld;4
+Bilbao;-29349852;432630126;Bilbao;Bilbao;8
+Birmingham;-189983;5248142;Birmingham;Birmingham;1
+Bochum;721648;5148165;Bochum;Bochum;2
+BogotÃ¡;-742478;46486259;BogotÃ¡;BogotÃ¡;1
+Bologna;113426163;44494887;Bologna;Bologna;15
+Bolzano;113547582;464982953;Bolzano;Bolzano;4
+Bonn;70982;507374;Bonn;Bonn;2
+BoqueirÃ£o;-36278212;-74956685;BoqueirÃ£o;BoqueirÃ£o;1
+BorÃ¥s;128571;577240257;BorÃ¥s;BorÃ¥s;1
+Almaty;768512485;432220146;Almaty;Almaty;1
+Amiens;2214598;49898651;Amiens;Amiens;1
+Bordeaux;-5792;448378;Bordeaux;Bordeaux;10
+Boston;-7105977;4235843;Boston;Boston;1
+Bourgogne;506606;473129;Bourgogne;Bourgogne;1
+Braga;-84265071;415454714;Braga;Braga;3
+Brasilia;-478821658;-157942287;Brasilia;Brasilia;3
+Brasov;256011977;456579755;Brasov;Brasov;1
+Bremen;880777;5307516;Bremen;Bremen;3
+Brisbane;1530251235;-274697707;Brisbane;Brisbane;2
+Brussels;43517103;508503396;Brussels;Brussels;13
+Bucharest;26024;444379269;Bucharest;Bucharest;4
+Budapest;19040235;47497912;Budapest;Budapest;17
+Buenos Aires;-5850335;-346155729;Buenos Aires;Buenos Aires;1
+Bulaksumur;1103753;-77713794;Bulaksumur;Bulaksumur;1
+Cachan Cedex;233661;4879632;Cachan Cedex;Cachan Cedex;2
+Cadiz;-62885962;365270612;Cadiz;Cadiz;4
+Caen;-370679;49182863;Caen;Caen;2
+Cairo;312357116;300444196;Cairo;Cairo;1
+Campinas;-47170344;-228947472;Campinas;Campinas;1
+Campo Grande;-546202365;-204697645;Campo Grande;Campo Grande;2
+Canterbury;107992;5127904;Canterbury;Canterbury;2
+Cape Town;1837588;-339139121;Cape Town;Cape Town;2
+Carbondale;-8921675;3772727;Carbondale;Carbondale;1
+Cardiff;-31791;514816;Cardiff;Cardiff;1
+Carlisle;-29382;548951;Carlisle;Carlisle;1
+Cassino;138332193;414866953;Cassino;Cassino;2
+CastellÃ³n de la Plana;-513246;399863563;CastellÃ³n de la Plana;CastellÃ³n de la Plana;2
+Catania;150830304;375078772;Catania;Catania;4
+CeskÃ© Budejovice;144205;48976444;CeskÃ© Budejovice;CeskÃ© Budejovice;1
+Chambery;593333;4556667;Chambery;Chambery;1
+Chania;24018;355138;Chania;Chania;2
+Charlottesville;-7847668;3802931;Charlottesville;Charlottesville;1
+Chennai;80233903;129908081;Chennai;Chennai;4
+Chicago;-876297982;418781136;Chicago;Chicago;1
+Chisinau;2878813;469999648;Chisinau;Chisinau;1
+Clayton;14511667;-3791667;Clayton;Clayton;1
+Clermont-Ferrand;3087025;45777222;Clermont-Ferrand;Clermont-Ferrand;1
+Cluj-Napoca;23546472;467834818;Cluj-Napoca;Cluj-Napoca;1
+Changsha;1128873381;282075899;Changsha;Changsha;1
+Coimbra;-84404;402048;Coimbra;Coimbra;9
+College Station;-9633441;3062798;College Station;College Station;1
+Constantine;66424;363602;Constantine;Constantine;1
+Cordoba;-477275;3789155;Cordoba;Cordoba;3
+Cork;-84863;518969;Cork;Cork;3
+Cottbus;143328679;517563108;Cottbus;Cottbus;1
+Coventry;-151217;5240656;Coventry;Coventry;4
+Cuernavaca Morelos;-992755;189319595;Cuernavaca Morelos;Cuernavaca Morelos;1
+Curitiba;-4942988;-254947402;Curitiba;Curitiba;1
+Dakar;-173660286;147645042;Dakar;Dakar;3
+Damascus;3623399;334970114;Damascus;Damascus;1
+Darmstadt;86512;498728;Darmstadt;Darmstadt;4
+Debrecen;216273;475316;Debrecen;Debrecen;1
+Delft;43570677;520115769;Delft;Delft;14
+Den Haag;429861;5207667;Den Haag;Den Haag;1
+Dijon;504148;47322047;Dijon;Dijon;2
+Diliman;1210625;14654562;Diliman;Diliman;1
+Dresden;137372621;510504088;Dresden;Dresden;8
+Dschang;100471549;54459387;Dschang;Dschang;1
+Dublin;-62676448;533386609;Dublin;Dublin;11
+Durham;-7889862;3599403;Durham;Durham;1
+Edgmond;-243083;5277785;Edgmond;Edgmond;1
+Zaragoza;-8897;416489;Zaragoza;Zaragoza;3
+Edinburgh;-3188267;55953252;Edinburgh;Edinburgh;12
+Eindhoven;547778;5144083;Eindhoven;Eindhoven;7
+Enschede;68936619;522215372;Enschede;Enschede;5
+Espoo;246522;602052;Espoo;Espoo;5
+Ã‰vora;-783333;3858333;Ã‰vora;Ã‰vora;4
+Exeter;-352751;507236;Exeter;Exeter;1
+Ferrara;11619787;448381237;Ferrara;Ferrara;3
+Firenze;1124626;4377925;Firenze;Firenze;5
+Frankfurt Am Main;868417;5011552;Frankfurt Am Main;Frankfurt Am Main;2
+Freiburg;78421043;479990077;Freiburg;Freiburg;4
+Galati;280079945;454353208;Galati;Galati;1
+Galway;-90567905;53270668;Galway;Galway;2
+Gdansk;186466384;543520252;Gdansk;Gdansk;3
+Geisenheim;79666942;499864335;Geisenheim;Geisenheim;1
+Genf;6109;462050836;Genf;Genf;1
+Genova;8946256;444056499;Genova;Genova;7
+Gent;371667;5105;Gent;Gent;13
+Giessen;86784031;505840512;Giessen;Giessen;1
+Girona;28214264;419794005;Girona;Girona;3
+Giza;312088526;300130557;Giza;Giza;1
+GjÃ¸vik;1063271;607950455;GjÃ¸vik;GjÃ¸vik;1
+Glasgow;-4251806;55864237;Glasgow;Glasgow;5
+GÃ¶teborg;116135;577020145;GÃ¶teborg;GÃ¶teborg;3
+Gothenburg;1197456;5770887;Gothenburg;Gothenburg;6
+GÃ¶ttingen;99158035;515412804;GÃ¶ttingen;GÃ¶ttingen;9
+Granada;-35985571;371773363;Granada;Granada;6
+Graz;1545;4706667;Graz;Graz;1
+Greifswald;1338786;5409311;Greifswald;Greifswald;1
+Grenoble;5724524;45188529;Grenoble;Grenoble;8
+Zhengzhou;1137198457;347428537;Zhengzhou;Zhengzhou;1
+ZÃ¼rich;84666755;473775499;ZÃ¼rich;ZÃ¼rich;2
+Groningen;65665018;532193835;Groningen;Groningen;12
+Halifax;-6357239;4464533;Halifax;Halifax;1
+Hamburg;99936818;535510846;Hamburg;Hamburg;9
+Hamirpur;76509;316908259;Hamirpur;Hamirpur;1
+Hannover;973322;5237052;Hannover;Hannover;1
+Hawthorn;1450464;-3782484;Hawthorn;Hawthorn;1
+Heidelberg;86724335;493987524;Heidelberg;Heidelberg;1
+Helsinki;24938379;601698557;Helsinki;Helsinki;8
+Hong Kong;114109497;22396428;Hong Kong;Hong Kong;1
+Houston;-9536327;2976328;Houston;Houston;1
+Huelva;-694004;3726638;Huelva;Huelva;1
+Hull;-3367;537457;Hull;Hull;1
+IaÈ™i;27516;471562327;IaÈ™i;IaÈ™i;1
+Incheon;12663281;373750804;Incheon;Incheon;2
+Indianapolis;-861581;397684;Indianapolis;Indianapolis;1
+Innsbruck;114041024;472692124;Innsbruck;Innsbruck;1
+Inverness;-422398;5747908;Inverness;Inverness;1
+Iquitos;-733183;-37528333;Iquitos;Iquitos;1
+Istanbul;289783589;410082376;Istanbul;Istanbul;1
+Ivanovo;409766453;570050671;Ivanovo;Ivanovo;1
+Jaen;-379028;3776922;Jaen;Jaen;1
+Jerusalem;3510531;317964453;Jerusalem;Jerusalem;1
+Joensuu;297635719;626010155;Joensuu;Joensuu;4
+Johannesburg;280473051;-262041028;Johannesburg;Johannesburg;3
+JyvÃ¤skylÃ¤;2572088;6224147;JyvÃ¤skylÃ¤;JyvÃ¤skylÃ¤;1
+Kaiserslautern;77491265;494400657;Kaiserslautern;Kaiserslautern;4
+Kampala;325825197;3475964;Kampala;Kampala;2
+Karlskrona;155869;561612;Karlskrona;Karlskrona;2
+Karlsruhe;84036527;490068901;Karlsruhe;Karlsruhe;4
+Kassel;95;5131667;Kassel;Kassel;1
+Katowice;190237815;502648919;Katowice;Katowice;1
+Khlong Nung;1005363236;140725146;Khlong Nung;Khlong Nung;2
+Khon Kaen Cytocare;10281493;164464659;Khon Kaen Cytocare;Khon Kaen Cytocare;1
+Kiel;101227652;543232927;Kiel;Kiel;4
+Kingston-Upon-Thames;-2974;5141259;Kingston-Upon-Thames;Kingston-Upon-Thames;1
+Klagenfurt Am WÃ¶rthersee;1430528;4662472;Klagenfurt Am WÃ¶rthersee;Klagenfurt Am WÃ¶rthersee;1
+KlaipÄ—da;210178;557054542;KlaipÄ—da;KlaipÄ—da;2
+Kopenhagen;1256553;5567594;Kopenhagen;Kopenhagen;10
+KÃ¶then;1197093;5175185;KÃ¶then;KÃ¶then;1
+KrakÃ³w;1993658;5006143;KrakÃ³w;KrakÃ³w;9
+Krems An Der Donau;1561415;4840921;Krems An Der Donau;Krems An Der Donau;2
+Kuopio;2767703;6289238;Kuopio;Kuopio;3
+L'Aquila;133995091;423498479;L'Aquila;L'Aquila;1
+La Coruna;-8396;4337135;La Coruna;La Coruna;4
+Lagos;-75458606;-421269175;Lagos;Lagos;1
+Lappeenranta;281896628;610549929;Lappeenranta;Lappeenranta;1
+Latsia;333562;350959024;Latsia;Latsia;1
+Lausanne;656675;465190557;Lausanne;Lausanne;2
+Le Havre;10767;494938;Le Havre;Le Havre;1
+Leeds;-15490774;538007554;Leeds;Leeds;2
+Leiden;449306;5215833;Leiden;Leiden;4
+Jena;115899;5092878;Jena;Jena;1
+Leipzig;123730747;513396955;Leipzig;Leipzig;3
+Lejona;-298884;4332686;Lejona;Lejona;2
+Leon;-557032;4260003;Leon;Leon;1
+Mainz;82472526;499928617;Mainz;Mainz;1
+Malta;1423;359444283;Malta;Malta;4
+Manchester;-223743;5348095;Manchester;Manchester;1
+Marburg;877069;5080904;Marburg;Marburg;1
+Leuven;47005176;508798438;Leuven;Leuven;16
+Liege;556749;5063373;Liege;Liege;8
+Lille;3057256;5062925;Lille;Lille;4
+Limerick;-86304975;526680204;Limerick;Limerick;2
+Lincoln;-540579;53230688;Lincoln;Lincoln;2
+LinkÃ¶ping;155407;584035187;LinkÃ¶ping;LinkÃ¶ping;3
+Linz;1428611;4830639;Linz;Linz;1
+Lisboa;-913333;3871667;Lisboa;Lisboa;27
+Ljubljana;145057515;460569465;Ljubljana;Ljubljana;5
+Lleida;62;416176;Lleida;Lleida;2
+Lodz;19456;517592;Lodz;Lodz;3
+Logan;-11183439;4173549;Logan;Logan;1
+London;-1277583;515073509;London;London;17
+Louvain-La-Neuve;461443;5066829;Louvain-La-Neuve;Louvain-La-Neuve;11
+Lublin;2256667;5125;Lublin;Lublin;1
+LuleÃ¥;22111;655871561;LuleÃ¥;LuleÃ¥;7
+Lund;132034;557119483;Lund;Lund;7
+Luxembourg;61008;496076553;Luxembourg;Luxembourg;2
+Lyngby;1250508;5578456;Lyngby;Lyngby;2
+Valencia;-3762881;394699075;Valencia;Valencia;6
+Lyon;4835659;45764043;Lyon;Lyon;6
+Maastricht;56909725;508513682;Maastricht;Maastricht;3
+Machester;-226442;5340658;Machester;Machester;2
+Madrid;-37037902;404167754;Madrid;Madrid;24
+Marseille;536978;43296482;Marseille;Marseille;7
+Maryland;-7674997;3900039;Maryland;Maryland;1
+Maynooth;-6611909;533798944;Maynooth;Maynooth;1
+Mbarara;30619;-6114351;Mbarara;Mbarara;1
+MedellÃ­n;-75666432;6268844;MedellÃ­n;MedellÃ­n;1
+Melbourne;-806081089;280836269;Melbourne;Melbourne;1
+Memphis;-90049;351495;Memphis;Memphis;1
+Messina;1555256;3819394;Messina;Messina;1
+Mexico City;-991851584;193216475;Mexico City;Mexico City;5
+Milano;918951;4546427;Milano;Milano;8
+Minxiong Township;120411;235417401;Minxiong Township;Minxiong Township;1
+Miskolc;206057;480892483;Miskolc;Miskolc;1
+Moniz;-1716667;3285;Moniz;Moniz;1
+Mont-Saint-Aignan;109364;4946307;Mont-Saint-Aignan;Mont-Saint-Aignan;1
+Monterey;-12189468;3660024;Monterey;Monterey;1
+Montpellier;38767;436108;Montpellier;Montpellier;12
+Moscow;3735232;557498598;Moscow;Moscow;6
+Mulhouse;7335888;47750839;Mulhouse;Mulhouse;1
+Mumbai;728776559;190759837;Mumbai;Mumbai;2
+MÃ¼nchen;1157549;4813743;MÃ¼nchen;MÃ¼nchen;7
+MÃ¼nster;76261347;519606649;MÃ¼nster;MÃ¼nster;2
+Mytilini;2655529;3910772;Mytilini;Mytilini;1
+Nancy;6184417;48692054;Nancy;Nancy;9
+Nanjing;11877778;3206167;Nanjing;Nanjing;2
+Nanterre;220675;4889198;Nanterre;Nanterre;1
+Nantes;-1553621;47218371;Nantes;Nantes;11
+Napoli;142681244;408517746;Napoli;Napoli;5
+New Brunswick;-744518;404862;New Brunswick;New Brunswick;1
+New York;-7400597;4071427;New York;New York;2
+Newcastle Upon Tyne;-161396;5497328;Newcastle Upon Tyne;Newcastle Upon Tyne;3
+Nice;72619532;437101728;Nice;Nice;5
+Nijmegen;58372264;518125626;Nijmegen;Nijmegen;3
+Ningbo;121544;298683;Ningbo;Ningbo;1
+Niteroi;-430802153;-229226446;Niteroi;Niteroi;1
+Nitra-ChrenovÃ¡;18088;483105849;Nitra-ChrenovÃ¡;Nitra-ChrenovÃ¡;1
+Norwich;1297355;526308859;Norwich;Norwich;2
+Nottingham;-11581086;529547832;Nottingham;Nottingham;3
+Nova Gorica;136392;459563244;Nova Gorica;Nova Gorica;1
+Novosibirsk;828093;549700936;Novosibirsk;Novosibirsk;1
+NÃ¼rnberg;1107752;4945421;NÃ¼rnberg;NÃ¼rnberg;2
+Oakland;-1222708;3780437;Oakland;Oakland;1
+Odense M;1038553;553781812;Odense M;Odense M;1
+Oldenburg;82146;531435;Oldenburg;Oldenburg;2
+Olomouc;172509;495938;Olomouc;Olomouc;4
+Omdurman;32315403;15642802;Omdurman;Omdurman;1
+Oostende;2927;5121551;Oostende;Oostende;1
+Osaka;1355022;346937;Osaka;Osaka;3
+Oslo;107522454;599138688;Oslo;Oslo;9
+OsnabrÃ¼ck;80472;522799;OsnabrÃ¼ck;OsnabrÃ¼ck;2
+Otago;168514959;-452063772;Otago;Otago;2
+Ottawa;-7569812;4541117;Ottawa;Ottawa;1
+Ouagadougou;-15196603;123714277;Ouagadougou;Ouagadougou;1
+Oulu;254650773;650120888;Oulu;Oulu;1
+Oviedo;-58494;433619;Oviedo;Oviedo;7
+Padova;118767611;454064349;Padova;Padova;16
+Palaiseau;225;4871667;Palaiseau;Palaiseau;2
+Palermo;133612671;381156879;Palermo;Palermo;2
+Paris;23522219;48856614;Paris;Paris;38
+Parkville Victoria;1449420183;-37787104;Parkville Victoria;Parkville Victoria;2
+Patra;2173444;3824444;Patra;Patra;2
+Pavia;91582069;451847248;Pavia;Pavia;5
+Perpignan;28948;426887;Perpignan;Perpignan;3
+Perugia;123908279;431107168;Perugia;Perugia;1
+Philadelphia;-7516379;3995233;Philadelphia;Philadelphia;1
+Pisa;104016888;437228386;Pisa;Pisa;3
+Plymouth;-414305;5037153;Plymouth;Plymouth;2
+Poitiers;340375;46580224;Poitiers;Poitiers;5
+Ponta Delgada;-256805868;377428301;Ponta Delgada;Ponta Delgada;1
+Porto;-86291053;411579438;Porto;Porto;11
+Porto Alegre;-512176584;-300346471;Porto Alegre;Porto Alegre;3
+Portsmouth;-109125;5079899;Portsmouth;Portsmouth;1
+Potenza;158055;406464;Potenza;Potenza;1
+Potsdam;130644729;523905689;Potsdam;Potsdam;4
+Poznan;1692993;5240692;Poznan;Poznan;5
+Prague;144378005;500755381;Prague;Prague;20
+Pueblo Libre;-7707432;-120765784;Pueblo Libre;Pueblo Libre;1
+Pune;738567;185204;Pune;Pune;1
+Quezon City;1209921;146841162;Quezon City;Quezon City;1
+Quinta De Prados;-7741174;412873905;Quinta De Prados;Quinta De Prados;1
+Quito;-7857062;-1862504;Quito;Quito;2
+Rabat;-6927302;339693414;Rabat;Rabat;1
+Reading;-97113;5145625;Reading;Reading;1
+Regensburg;121016236;490134297;Regensburg;Regensburg;1
+Reggio Calabria;1566129;3811047;Reggio Calabria;Reggio Calabria;2
+Reykjavik;-21922481;641323387;Reykjavik;Reykjavik;2
+Riga;239901;569715833;Riga;Riga;1
+Rio De Janeiro;-435;-229108558;Rio De Janeiro;Rio De Janeiro;4
+Rochester;-7761556;4315478;Rochester;Rochester;1
+Reims Cedex;403333;4925;Reims Cedex;Reims Cedex;1
+Rennes;-16777926;48117266;Rennes;Rennes;5
+Rethymno;2448232;3536555;Rethymno;Rethymno;2
+Roma;1251133;4189193;Roma;Roma;11
+Roskilde;12087845;5564191;Roskilde;Roskilde;2
+Rostock;120991466;540924406;Rostock;Rostock;1
+Rotterdam;44777325;519244201;Rotterdam;Rotterdam;3
+Roubaix;317456;5069421;Roubaix;Roubaix;1
+SaarbrÃ¼cken;69969327;492401572;SaarbrÃ¼cken;SaarbrÃ¼cken;3
+Saint-Etienne;43871779;45439695;Saint-Etienne;Saint-Etienne;5
+Saint-Paul-lez-Durance;5740684;43699411;Saint-Paul-lez-Durance;Saint-Paul-lez-Durance;1
+Salamanca;-56635397;409701039;Salamanca;Salamanca;1
+Salzburg;1305501;4780949;Salzburg;Salzburg;1
+San Isidro Lima;-77052508;-120983842;San Isidro Lima;San Isidro Lima;1
+San Juan;-661057355;184655394;San Juan;San Juan;1
+San Vicente Del Raspeig;-5255;383964;San Vicente Del Raspeig;San Vicente Del Raspeig;1
+Santa Barbara;-11969819;3442083;Santa Barbara;Santa Barbara;1
+Santa Fe;-60741362;-316180648;Santa Fe;Santa Fe;2
+Santander;-38099803;434623057;Santander;Santander;2
+Santarem;-868333;3923333;Santarem;Santarem;1
+Santiago;-7076991;-334724228;Santiago;Santiago;3
+Santiago De Compostela;-854569;4288052;Santiago De Compostela;Santiago De Compostela;1
+SÃ£o Carlos;-4793107;-220184566;SÃ£o Carlos;SÃ£o Carlos;1
+Sao Paulo;-468754833;-236815315;Sao Paulo;Sao Paulo;3
+Saskatchewan;-10600099;540001;Saskatchewan;Saskatchewan;1
+Senftenberg;1400164;5152517;Senftenberg;Senftenberg;1
+Sevilla;-597317;3738283;Sevilla;Sevilla;5
+Sfax;107129;347568479;Sfax;Sfax;1
+Shanghai;12145806;3122222;Shanghai;Shanghai;5
+Sheffield;-14701;533811;Sheffield;Sheffield;4
+Singapore;1037069342;13150701;Singapore;Singapore;2
+St Andrews;-279902;5633871;St Andrews;St Andrews;4
+Stavanger;57331073;589699756;Stavanger;Stavanger;2
+Stellenbosch;18860152;-339321045;Stellenbosch;Stellenbosch;5
+Stoke-On-Trent;-218538;5300415;Stoke-On-Trent;Stoke-On-Trent;2
+Stockholm;180685808;593293235;Stockholm;Stockholm;21
+Strasbourg;77521113;485734053;Strasbourg;Strasbourg;5
+Stuttgart;91829321;487758459;Stuttgart;Stuttgart;7
+Swansea;-3943646;5162144;Swansea;Swansea;5
+Sydney;15120732;-3386785;Sydney;Sydney;1
+Sydney New South Wales;151208;-3387187;Sydney New South Wales;Sydney New South Wales;2
+Szczecinie;144845;534298189;Szczecinie;Szczecinie;1
+Szeged;20;46232941;Szeged;Szeged;1
+Taipei City;1213662;250174719;Taipei City;Taipei City;1
+Tallahassee;-8428073;3043826;Tallahassee;Tallahassee;1
+Tallinn;247535746;594369608;Tallinn;Tallinn;5
+Tarragona;12444909;411188827;Tarragona;Tarragona;4
+Tartu;267290063;583776252;Tartu;Tartu;4
+Texel;481166;5307883;Texel;Texel;1
+Thessaloniki;229444191;406400629;Thessaloniki;Thessaloniki;4
+Tilburg;50913;5155551;Tilburg;Tilburg;4
+Timisoar;2114655;45741163;Timisoar;Timisoar;1
+Tokyo;1396917;356895;Tokyo;Tokyo;5
+Tomar;-84042526;396052067;Tomar;Tomar;2
+TÃ¸nsberg;1033331;592947319;TÃ¸nsberg;TÃ¸nsberg;1
+TÃµravere;26450705;582627747;TÃµravere;TÃµravere;1
+Torino;76868565;45070312;Torino;Torino;10
+Toulouse;14442;436047;Toulouse;Toulouse;9
+Tours;66905;4735223;Tours;Tours;3
+Trabzon;397168;410027;Trabzon;Trabzon;1
+Trento;111217486;460747793;Trento;Trento;5
+Tripoli;2237944;3750889;Tripoli;Tripoli;1
+TromsÃ¸;1884771;696652735;TromsÃ¸;TromsÃ¸;2
+Uppsala;176389267;598585638;Uppsala;Uppsala;13
+Aarhus;102039;561629;Aarhus;Aarhus;5
+Adelaide South Australia;1385991;-349289;Adelaide South Australia;Adelaide South Australia;2
+Adelphi;-8274711;3946673;Adelphi;Adelphi;1
+Algarve;-7930834;370179538;Algarve;Algarve;11
+Umea;20263;638258;Umea;Umea;1
+Venezia;12328176;4543682;Venezia;Venezia;4
+Vercelli;841989;4532163;Vercelli;Vercelli;1
+Verona;1098444;454299;Verona;Verona;1
+Vila Real;-774413;4130062;Vila Real;Vila Real;3
+Ville De QuÃ©bec;-7121454;4681228;Ville De QuÃ©bec;Ville De QuÃ©bec;1
+Villeurbanne;488333;4576667;Villeurbanne;Villeurbanne;1
+Vilnius;252796514;546871555;Vilnius;Vilnius;2
+Viterbo;121077;424207;Viterbo;Viterbo;1
+Volos;2294248;3936103;Volos;Volos;1
+Wageningen;56654;519692;Wageningen;Wageningen;7
+Warsaw;210122287;522296756;Warsaw;Warsaw;10
+Waterloo;-8041638;434501;Waterloo;Waterloo;1
+Wien;1637208;4820849;Wien;Wien;9
+Wiesbaden;824932;5008258;Wiesbaden;Wiesbaden;1
+Wolverhampton;-212296;5258547;Wolverhampton;Wolverhampton;1
+Wroclaw;170385376;511078852;Wroclaw;Wroclaw;5
+Wuppertal;71508;512562;Wuppertal;Wuppertal;1
+WÃ¼rzburg;99533548;497913044;WÃ¼rzburg;WÃ¼rzburg;1
+XiÂ´an;1074900165;3450325;XiÂ´an;XiÂ´an;1
+Xiamen;118089424;24448907;Xiamen;Xiamen;2
+Marcy-L'Ã‰toile;472724;4578126;Marcy-L'Ã‰toile;Marcy-L'Ã‰toile;1
+Nyon;6209;463864649;Nyon;Nyon;1
+Pretoria;2805786;-257582737;Pretoria;Pretoria;1
+Southampton;-14043509;509097004;Southampton;Southampton;5
+Trondheim;103950528;634305149;Trondheim;Trondheim;7
+TÃ¼bingen;905222;4852266;TÃ¼bingen;TÃ¼bingen;2
+Turku;222666303;604518126;Turku;Turku;3
+Udine;132346;460711;Udine;Udine;2
+University Of Tampere;2377654;614937473;University Of Tampere;University Of Tampere;3
+Utrecht;51214;520907;Utrecht;Utrecht;3
+Valladolid;-47245;416523;Valladolid;Valladolid;2
